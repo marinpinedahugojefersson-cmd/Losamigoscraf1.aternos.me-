@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Losamigoscraf1.aternos.me ",
+    "ip": "Losamigoscraf1.aternos.me",
     "port": 27667,
     "version": "",
     "try-creative": false
